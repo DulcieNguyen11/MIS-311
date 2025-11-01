@@ -10,20 +10,19 @@ The dataset provides insights into employee characteristics and their job perfor
 
 2. Data cleaning
    
-   a. Missing value
+a. Missing value
    
    Performance Score: 105 missing values
    
 Do not fill the missing values in the Performance Score column because these scores are based on human evaluation, not measurable data. Imputing or estimating them would create artificial results and reduce the accuracy of the analysis.Therefore, they were left blank to preserve the integrity and authenticity of the dataset. This ensures that all performance-related insights are based only on real observed evaluations.
 
-   b. Duplicate rows
+b. Duplicate rows
 
    There are 4 duplicate values found and removed. 199 unique values remain
 
 3.Descriptive Statistics
 
-<img width="556" height="284" alt="Ảnh chụp màn hình 2025-11-01 134733" src="https://github.com/user-attachments/assets/7544cc6a-4ecd-437f-b933-7303629697af" />
-
+<img width="566" height="289" alt="Ảnh chụp màn hình 2025-11-01 140459" src="https://github.com/user-attachments/assets/b01dd6bf-e6b9-4eed-9601-c9e3dbe73836" />
 
 Figure 1: The bar chart of number of employees by location
 
