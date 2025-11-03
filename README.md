@@ -1,5 +1,5 @@
 **1. Data overview**
-
+---
 This dataset can be collected from a company’s Human Resource Management System (HRMS), which stores employee information for performance and workforce analysis.It contains 200 rows and 12 columns. Each row represents a record. Each column represents a variable, including ID, Name, Age, Gender, Department, Salary, Joining date, Performance Score, Experience, Status, Location, Session. It includes data from 199 employees.
 
 The dataset provides insights into employee characteristics and their job performance across different departments. The goal is to identify patterns and relationships between variables such as department, salary, and location. This helps HR managers understand workforce productivity, make fair evaluation decisions, and improve organizational performance strategies.
@@ -9,7 +9,7 @@ The dataset provides insights into employee characteristics and their job perfor
    Table 1: Data description
 
 **2. Data cleaning**
-   
+   ---
 **a. Missing value******
    
    Performance Score: 105 missing values
@@ -21,7 +21,7 @@ Do not fill the missing values in the Performance Score column because these sco
    There are 4 duplicate values found and removed. 199 unique values remain
 
 **3.Descriptive Statistics**
-
+---
 <img width="566" height="289" alt="Ảnh chụp màn hình 2025-11-01 140459" src="https://github.com/user-attachments/assets/b01dd6bf-e6b9-4eed-9601-c9e3dbe73836" />
 
 Figure 1: The bar chart of number of employees by location
