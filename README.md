@@ -36,4 +36,4 @@ The bar chart shows the distribution of employees across three locations: Chicag
 
   The second bar chart illustrates the average salary across three departments: HR, IT, and Sales. Among them, the IT department has the highest average salary, followed by HR, while Sales has the lowest.
 
-  👉** Insight:** This indicates that employees in technical departments like IT are generally better compensated, likely due to higher skill requirements and greater contributions. The variation in salary across departments highlights the organization’s effort to align compensation with job complexity and expertise level.
+  👉 **Insight:** This indicates that employees in technical departments like IT are generally better compensated, likely due to higher skill requirements and greater contributions. The variation in salary across departments highlights the organization’s effort to align compensation with job complexity and expertise level.
