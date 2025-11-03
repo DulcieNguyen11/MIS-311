@@ -10,7 +10,7 @@ The dataset provides insights into employee characteristics and their job perfor
 
 **2. Data cleaning**
    ---
-**a. Missing value****
+**a. Missing value**
    
    Performance Score: 105 missing values
    
