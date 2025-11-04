@@ -1,3 +1,5 @@
+I will use Excel to analysis the data set 2 ( Employee Performance)
+
 **1. Data overview**
 ---
 This dataset can be collected from a company’s Human Resource Management System (HRMS), which stores employee information for performance and workforce analysis.It contains 204 rows and 12 columns. Each row represents a record. Each column represents a variable, including ID, Name, Age, Gender, Department, Salary, Joining date, Performance Score, Experience, Status, Location, Session. It includes data from 203 employees and recorded from 19/12/2014 to 7/12/2024.
@@ -11,6 +13,8 @@ The dataset provides insights into employee characteristics and their job perfor
 **2. Data cleaning**
    ---
 **a. Missing value**
+
+I used Countblank() function to count how many missing value
    
    Performance Score: 105 missing values
    
@@ -21,6 +25,9 @@ Therefore, they were left blank to preserve the integrity and authenticity of th
 **b. Duplicate rows**
 
    There are 4 duplicate values found and removed. 199 unique values remain
+
+<img width="694" height="113" alt="Ảnh chụp màn hình 2025-11-04 232418" src="https://github.com/user-attachments/assets/83c41406-5771-497b-a934-64491d154dd3" />
+
 
 **3.Descriptive Statistics**
 ---
