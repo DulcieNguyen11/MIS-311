@@ -6,7 +6,7 @@ This dataset can be collected from a company’s Human Resource Management Syste
 
 The dataset provides insights into employee characteristics and their job performance across different departments. The goal is to identify patterns and relationships between variables such as department, salary, and location. This helps HR managers understand workforce productivity, make fair evaluation decisions, and improve organizational performance strategies.
 
-<img width="530" height="289" alt="Ảnh chụp màn hình 2025-11-01 125554" src="https://github.com/user-attachments/assets/0dfd1ee4-bb10-4416-997f-f2c5c9a117c4" />
+<img width="578" height="315" alt="Ảnh chụp màn hình 2025-11-05 175813" src="https://github.com/user-attachments/assets/9ac4fe49-cb57-4456-b977-6ea191baa591" />
 
    Table 1: Data description
 
